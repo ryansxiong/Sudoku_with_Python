@@ -1,2 +1,2 @@
 # Sudoku with Python
-![Screenshot (15)](https://user-images.githubusercontent.com/91089401/142959827-e11b3d97-d50d-4f6c-a5d5-097568d0f05f.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/91089401/142960172-15499e75-6923-4b70-9074-0bf4e7914a3d.png)
